@@ -17,6 +17,11 @@ blog_posts = [
         'title': 'Python is best programmin language',
         'content': 'test content3 hello world'
     },
+    {
+        'id': 4,
+        'title': 'js is best programmin language',
+        'content': 'test content4 hello world'
+    },
 ]
 
 

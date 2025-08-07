@@ -21,5 +21,6 @@ blog_posts = [
 
 
 def post_list(request):
+    print("hello world")
     return render(request, 'posts/post_list.html', {'posts': blog_posts})
 
